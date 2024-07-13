@@ -1,5 +1,17 @@
-# Reactive-Programming-in-Python
-This is the code repository for [Reactive Programming in Python [Video]](https://www.packtpub.com/application-development/reactive-programming-python-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Reactive Programming in Python: RxPy, PyQt, Tornado
+
+This is the code repository for [Reactive Programming in Python [Video]](https://www.google.ca/books/edition/Reactive_Programming_in_Python/H60lzgEACAAJ?hl=en), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+
+[The video course content is partially available as a preview on YouTube](https://www.youtube.com/watch?v=9XHvHwOxujQ&list=PLTgRMOcmRb3P0I4fpieDolqqY8hIUjIKm)
+
+Contents of this repo, source code:
+1. [Installation and setup](./Section%201/)
+2. [Reactive Extensions for Python](./Section%202)
+3. [Reactive GUIs and Data Flows with Qt and RxPy](./Section%203)
+4. [Reactive Web Servers/Clients with the Tornado Web Framework](./Section%204)
+5. [Testing Reactive GUIs and a Cluster of Web Servers/Clients](./Section%205)
+6. [Build a Reactive Real-Time Stock Exchange](./Section%206)
+
 ## About the Video Course
 This video will be your guide to getting started with Reactive programming in Python. You will begin with the general concepts of Reactive programming and then gradually move on to work with asynchronous data streams.
 
@@ -11,35 +23,24 @@ You will then learn to scale applications using multi-node clusters and will lea
 
 All the code and supporting files for this course are available on GitHub at https://github.com/PacktPublishing/Reactive-Programming-in-Python
 
-<H2>What You Will Learn</H2>
-<DIV class=book-info-will-learn-text>
-<UL>
-<LI> Use reactive programming to build distributed systems running on multiple nodes
-<LI> What is Reactive programming and when should you use it?
-<LI> Handle UI interactions/events very easily
-<LI> Handle errors with Reactive programming
-<LI> Create a distributed application using Tornado that uses Reactive programming
-<LI> Test a cluster of reactive, distributed web servers and clients to make sure your app can scale
-<LI> Unit-test reactive programs whether they’re GUIs or web servers
-<LI> Build a reactive real-time stock exchange with Python, Qt, Tornado, and RxPy</LI></UL></DIV>
+## What You Will Learn</H2>
+* Use reactive programming to build distributed systems running on multiple nodes
+* What is Reactive programming and when should you use it?
+* Handle UI interactions/events very easily
+* Handle errors with Reactive programming
+* Create a distributed application using Tornado that uses Reactive programming
+* Test a cluster of reactive, distributed web servers and clients to make sure your app can scale
+   Unit-test reactive programs whether they’re GUIs or web servers
+* Build a reactive real-time stock exchange with Python, Qt, Tornado, and RxPy
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 This video course is for Python developers who would like to build fault-tolerant, scalable, and distributed systems. No knowledge of Reactive programming is required.
 ### Technical Requirements
-This course has the following software requirements:<br/>
-RxPy Reactive Extension<br/>
-Qt5<br/>
-PyQt5<br/>
-Tornado Web Framework<br/>
+This course has the following software requirements:
 
-
-
-
-## Related Products
-* [Building Trading Algorithms with Python [Video]](https://www.packtpub.com/application-development/building-trading-algorithms-python-video)
-
-* [Learn Python Programming with Games [Video]](https://www.packtpub.com/game-development/learn-python-programming-games-video)
-
-* [Building Trading Algorithms with Python [Video]](https://www.packtpub.com/application-development/building-trading-algorithms-python-video)
+- [RxPy Reactive Extension](https://github.com/ReactiveX/RxPY)
+- [Qt GUI framework](https://www.qt.io/product/framework) 5
+- [PyQt](https://riverbankcomputing.com/software/pyqt) 5
+- [Tornado Web Framework](https://github.com/tornadoweb/tornado)
