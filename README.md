@@ -23,7 +23,7 @@ You will then learn to scale applications using multi-node clusters and will lea
 
 All the code and supporting files for this course are available on GitHub at https://github.com/PacktPublishing/Reactive-Programming-in-Python
 
-## What You Will Learn</H2>
+## What You Will Learn
 * Use reactive programming to build distributed systems running on multiple nodes
 * What is Reactive programming and when should you use it?
 * Handle UI interactions/events very easily
@@ -35,7 +35,6 @@ All the code and supporting files for this course are available on GitHub at htt
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
 This video course is for Python developers who would like to build fault-tolerant, scalable, and distributed systems. No knowledge of Reactive programming is required.
 ### Technical Requirements
 This course has the following software requirements:
