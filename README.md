@@ -43,3 +43,12 @@ This course has the following software requirements:
 - [Qt GUI framework](https://www.qt.io/product/framework) 5
 - [PyQt](https://riverbankcomputing.com/software/pyqt) 5
 - [Tornado Web Framework](https://github.com/tornadoweb/tornado)
+
+# Installation and setup
+Poetry setup:
+```bash
+poetry env use 3.12
+poetry run python -m ensurepip --upgrade
+poetry run python -m pip install --upgrade pip setuptools wheel
+poetry install
+```
